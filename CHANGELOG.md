@@ -10,3 +10,6 @@ All notable changes to this project are documented in this file.
 
 ### v1.0.3 (2026-05-13)
 - Improved latency summary calculations for diagnostic snapshots.
+
+### v1.0.4 (2026-09-07)
+- Handled trailing whitespace during payload normalization.
