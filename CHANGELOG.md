@@ -13,3 +13,6 @@ All notable changes to this project are documented in this file.
 
 ### v1.0.4 (2026-09-07)
 - Handled trailing whitespace during payload normalization.
+
+### v1.0.5 (2026-10-01)
+- Added extra unit assertions for boundary inputs.
